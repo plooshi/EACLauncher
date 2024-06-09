@@ -1,0 +1,6 @@
+x64/
+EACLauncher
+*.vcxproj.user
+.vs
+Release
+Debug
